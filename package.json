@@ -11,5 +11,8 @@
   "devDependencies": {
     "typescript": "^5.5.3",
     "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "effect-ts": "^0.0.1"
   }
 }
